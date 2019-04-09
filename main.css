@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+.container {
+    background-color: white; 
+    padding:20px; 
+    border-radius:16px; 
+    background-image: url("http://lorempixel.com/400/300/"); 
+}
